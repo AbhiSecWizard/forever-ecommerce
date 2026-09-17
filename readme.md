@@ -1,4 +1,8 @@
 <!-- Hey ! -->
+**Client**
+_https://forever-ecommerce-frontend-tt2k.onrender.com_
+**Admin**
+_https://forever-ecommerce-1-bmp2.onrender.com_
 # E-Commerce REST API Documentation
 
 
