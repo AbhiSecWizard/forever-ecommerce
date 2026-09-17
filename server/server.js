@@ -24,7 +24,7 @@ app.use("/api/product",productRouter)
 app.use("/api/cart",cartRouter)
 app.use("/api/order",orderRouter)
 app.use(cors({
-    origin:["https://forever-ecommerce-frontend-tt2k.onrender.com"],
+    origin:["https://forever-ecommerce-frontend-tt2k.onrender.com","https://forever-ecommerce-1-bmp2.onrender.com"],
     credentials:true
 }))
 

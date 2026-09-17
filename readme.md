@@ -921,8 +921,9 @@ Create a `.env` file in your frontend directory:
 VITE_BACKEND_URL=http://localhost:4000
 VITE_RAZORPAY_KEY_ID=
 
-
-
+#Admin password and email
+ADMIN_EMAIL=admin@gmail.com
+ADMIN_PASSWORD=qwerty123
 
 
 **Developed with ❤️ using the MERN Stack**
